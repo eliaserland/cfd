@@ -1,3 +1,5 @@
 ERCOFTAC “Classic Collection” Database:
 http://cfd.mace.manchester.ac.uk/ercoftac/doku.php
 
+Kristers FAQ:
+https://docs.google.com/document/d/1zLqR2LRziEIpFquxJUUwJi_XrAyp3WGtI9dIrFWu-fc/edit
