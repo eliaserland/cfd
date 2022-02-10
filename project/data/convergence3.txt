@@ -1,0 +1,6 @@
+# Model:              HydroFlux_CAD_211205_improved_meshconvergence.mph
+# Version:            COMSOL 5.5.0.359
+# Date:               Jan 14 2022, 08:51
+# Table:              Table 4 - Mesh convergence - Global Evaluation 1
+# meshtest               Number of degrees of freedom (1)Velocity magnitude (m/s), Point: (0.185, 0.065, 0.0525)Velocity magnitude (m/s), Point: (0.185, 0.065, 0.065)Velocity magnitude (m/s), Point: (0.185, 0.065, 0.0775)Pressure (Pa), Point: (0.185, 0.065, 0.0525)Pressure (Pa), Point: (0.185, 0.065, 0.065)Pressure (Pa), Point: (0.185, 0.065, 0.0775)
+1.024                    465473                   21.019879227261306       21.081800441854135       21.027714639656534       -157.88660940194418      -157.9745312960038       -158.1461630931928
